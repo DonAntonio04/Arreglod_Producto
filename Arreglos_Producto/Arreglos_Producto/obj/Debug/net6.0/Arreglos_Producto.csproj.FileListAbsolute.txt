@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\bin\Debug\net6.0\Arreglos_Producto.exe
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\bin\Debug\net6.0\Arreglos_Producto.deps.json
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\bin\Debug\net6.0\Arreglos_Producto.runtimeconfig.json
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\bin\Debug\net6.0\Arreglos_Producto.dll
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\bin\Debug\net6.0\Arreglos_Producto.pdb
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.AssemblyInfo.cs
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.dll
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\refint\Arreglos_Producto.dll
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.pdb
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\Arreglos_Producto.genruntimeconfig.cache
+C:\Users\hp\source\repos\Arreglos_Producto\Arreglos_Producto\obj\Debug\net6.0\ref\Arreglos_Producto.dll
